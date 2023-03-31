@@ -1,22 +1,22 @@
 enemy = {}
 
-function enemy.load()
+function enemy:load()
   
 end
 
-function enemy.keypressed(key, scancode, isrepeat)
+function enemy:keypressed(key, scancode, isrepeat)
   
 end
 
-function enemy.mousepressed(x, y, button)
+function enemy:mousepressed(x, y, button)
   
 end
 
-function enemy.update(dt)
+function enemy:update(dt)
   
 end
 
-function enemy.draw()
+function enemy:draw()
   
 end
 
