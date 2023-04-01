@@ -1,0 +1,21 @@
+The Rebel's Rivalry Personal Use License
+
+Copyright © 2023 Miel Land and Deadzone | Discord: Miel#3694 and Deadzone#2427
+
+Subject to the terms and conditions of this license, Miel Land and Deadzone ("the copyright holders") grants you a non-exclusive, non-transferable, revocable license to use the software "The Rebel's Rivalry" ("the Software") for personal, non-commercial purposes only.
+
+You may not modify, distribute, sell, or sublicense the Software or any part of it without the express written permission of the copyright holders.
+
+Derivative works may not be created based on the Software.
+
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+To the extent permitted by law, you agree to indemnify and hold harmless the copyright holder from any claims, damages, or other liabilities arising from your use of the Software or any breach of this license.
+
+Any and all rights not expressly granted in this license are reserved by the copyright holder.
+
+You agree to include the following credit in your game, documentation, and marketing materials:
+
+"The Rebel's Rivalry" by Miel Land and Deadzone, used under the Personal Use License.
+
+By using or distributing this software, you agree to the terms and conditions of this license. If you do not agree to the terms and conditions of this license, do not use or distribute the software.
