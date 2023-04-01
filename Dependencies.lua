@@ -20,6 +20,8 @@ world = wf.newWorld(0, 0, true)
 require("test_world")
 require"objects.enemy"
 require"objects.player"
+require"objects.player_run"
+require"objects.player_shoot"
 require"objects.bullet"
 require("utilities.menu")
 require"utilities.Global_Variables"
