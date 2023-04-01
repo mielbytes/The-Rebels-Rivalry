@@ -36,7 +36,7 @@ function options:updateButtonPositions()
   sfxSliderInfo.y = (love.graphics.getHeight() / 2) - (sfxSliderInfo.h / 5)
 
   fullscreenButton.x = (love.graphics.getWidth() / 2) - (fullscreenButton.w / 2) - 25
-  fullscreenButton.y = (love.graphics.getHeight() / 2) - (fullscreenButton.h / 10)
+  fullscreenButton.y = (love.graphics.getHeight() / 2) - (fullscreenButton.h / 10) + 60
 
   musicSlider = newSlider(musicSliderInfo.x, musicSliderInfo.y, musicSliderInfo.h, 0.8, 0, 1, function (v)
     menubackground:setVolume(v) end, { width = musicSliderInfo.w, orientation = "horizontal", track = "roundrect", knob = "circle" })
